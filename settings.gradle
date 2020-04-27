@@ -1,0 +1,2 @@
+rootProject.name='Webiste2App'
+include ':app'
