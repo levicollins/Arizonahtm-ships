@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        mWebview.loadUrl("https://koothradan.wordpress.com/");
+        mWebview.loadUrl("https://arizonahtm.com/");
         setContentView(mWebview);
 
     }
